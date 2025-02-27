@@ -15,5 +15,5 @@
 homepage: "https://github.com/74minutos/combine_json_objects"
 documentation: "https://github.com/74minutos/combine_json_objects"
 versions:
-  - sha: a572c58dfa44185fda4f6a9280ba067b00519662
+  - sha: f8401302564508245ae8915c3da2b7d9a5a517ee
     changeNotes: Initial Functional Version
